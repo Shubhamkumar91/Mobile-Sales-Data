@@ -1,1 +1,2 @@
 # Mobile-Sales-Data
+ Mobile Sales Dashboard using Power BI - Created an interactive Power BI dashboard using Tata mobile sales data for product performance tracking. - Used Power Query and DAX to calculate KPIs such as monthly revenue, regional trends, and customer complaints. - Created slicers and drill-down charts to improve dashboard interactivity and usability. - Provided strategic insights that enhanced marketing focus and regional sales decisions. - Delivered a professional report with dynamic visualizations for stakeh
